@@ -1,0 +1,226 @@
+{
+ "generated": "2026-10-26",
+ "domain": "https://nickstrom5.github.io/arizona-eats",
+ "restaurants": 17123,
+ "places_incl_hidden": 17869,
+ "towns": 214,
+ "counties": 15,
+ "on_an_official_list": 12076,
+ "hand_checked_on_a_guide": 80,
+ "golden_plate": 94,
+ "guide_sonoran_dog": 19,
+ "guide_sonoran": 28,
+ "guide_chimi": 15,
+ "guide_frybread": 3,
+ "guide_route66": 19,
+ "guide_saloon": 11,
+ "oldest": 7,
+ "honors": 29,
+ "michelin": {
+  "MICHELIN Recommended": 12,
+  "Bib Gourmand": 7
+ },
+ "james_beard": 19,
+ "americas_classics": 3,
+ "inspection_ratings": 994,
+ "inspection_bands": {
+  "Mohave County": {
+   "Satisfactory": 193,
+   "Excellent": 275,
+   "Needs Improvement": 28
+  },
+  "Pinal County": {
+   "Excellent": 440,
+   "Satisfactory": 47,
+   "Needs Improvement": 11
+  }
+ },
+ "inspections_through": {
+  "moh": "2026-09-30",
+  "pin": "2026-10-15"
+ },
+ "permits_updated": "2026-10-26",
+ "city_pages": {
+  "Phoenix": {
+   "restaurants": 3780,
+   "listed": 25,
+   "sonoran_dog": 2,
+   "sonoran": 7,
+   "chimi": 2,
+   "frybread": 1,
+   "route66": 0,
+   "saloon": 1,
+   "hon": 18,
+   "oldest": 1,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  },
+  "Tucson": {
+   "restaurants": 1928,
+   "listed": 35,
+   "sonoran_dog": 17,
+   "sonoran": 17,
+   "chimi": 12,
+   "frybread": 0,
+   "route66": 0,
+   "saloon": 0,
+   "hon": 3,
+   "oldest": 0,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  },
+  "Scottsdale": {
+   "restaurants": 1171,
+   "listed": 6,
+   "sonoran_dog": 0,
+   "sonoran": 1,
+   "chimi": 0,
+   "frybread": 1,
+   "route66": 0,
+   "saloon": 0,
+   "hon": 4,
+   "oldest": 0,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  },
+  "Flagstaff": {
+   "restaurants": 260,
+   "listed": 5,
+   "sonoran_dog": 0,
+   "sonoran": 0,
+   "chimi": 0,
+   "frybread": 0,
+   "route66": 3,
+   "saloon": 1,
+   "hon": 1,
+   "oldest": 0,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  },
+  "Williams": {
+   "restaurants": 48,
+   "listed": 4,
+   "sonoran_dog": 0,
+   "sonoran": 0,
+   "chimi": 0,
+   "frybread": 0,
+   "route66": 4,
+   "saloon": 0,
+   "hon": 0,
+   "oldest": 0,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  },
+  "Seligman": {
+   "restaurants": 8,
+   "listed": 4,
+   "sonoran_dog": 0,
+   "sonoran": 0,
+   "chimi": 0,
+   "frybread": 0,
+   "route66": 4,
+   "saloon": 0,
+   "hon": 0,
+   "oldest": 1,
+   "inspection_scores": 0,
+   "inspection_bands": {}
+  }
+ },
+ "cities_without_a_page": {
+  "Mesa": 1,
+  "Tempe": 0,
+  "Chandler": 1,
+  "Glendale": 0,
+  "Gilbert": 0,
+  "Paradise Valley": 2,
+  "Sedona": 0,
+  "Prescott": 3,
+  "Kingman": 2,
+  "Winslow": 3,
+  "Holbrook": 0,
+  "Oatman": 1,
+  "Jerome": 0,
+  "Tombstone": 3,
+  "Bisbee": 0,
+  "Yuma": 0,
+  "Lake Havasu City": 0,
+  "Nogales": 0,
+  "Peoria": 0,
+  "South Tucson": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/az_shapes.json": {
+   "raw": 33197,
+   "gzip": 7004
+  },
+  "data/core.json": {
+   "raw": 1559281,
+   "gzip": 270163
+  },
+  "data/detail-apache-county.json": {
+   "raw": 2733,
+   "gzip": 890
+  },
+  "data/detail-cochise-county.json": {
+   "raw": 14703,
+   "gzip": 4102
+  },
+  "data/detail-coconino-county.json": {
+   "raw": 26382,
+   "gzip": 6974
+  },
+  "data/detail-gila-county.json": {
+   "raw": 6292,
+   "gzip": 1798
+  },
+  "data/detail-graham-county.json": {
+   "raw": 3373,
+   "gzip": 1112
+  },
+  "data/detail-greenlee-county.json": {
+   "raw": 429,
+   "gzip": 210
+  },
+  "data/detail-la-paz-county.json": {
+   "raw": 2942,
+   "gzip": 925
+  },
+  "data/detail-maricopa-county.json": {
+   "raw": 1192781,
+   "gzip": 218941
+  },
+  "data/detail-mohave-county.json": {
+   "raw": 107768,
+   "gzip": 12085
+  },
+  "data/detail-navajo-county.json": {
+   "raw": 13018,
+   "gzip": 3519
+  },
+  "data/detail-pima-county.json": {
+   "raw": 189173,
+   "gzip": 38740
+  },
+  "data/detail-pinal-county.json": {
+   "raw": 86413,
+   "gzip": 12408
+  },
+  "data/detail-santa-cruz-county.json": {
+   "raw": 4902,
+   "gzip": 1520
+  },
+  "data/detail-yavapai-county.json": {
+   "raw": 35638,
+   "gzip": 9612
+  },
+  "data/detail-yuma-county.json": {
+   "raw": 18054,
+   "gzip": 4639
+  },
+  "data/ids.json": {
+   "raw": 222627,
+   "gzip": 129066
+  }
+ }
+}

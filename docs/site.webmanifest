@@ -1,0 +1,21 @@
+{
+  "name": "Arizona Eats",
+  "short_name": "Arizona Eats",
+  "description": "Sonoran dogs, tacos & fry bread: a guide to 17,123 Arizona restaurants.",
+  "start_url": "/arizona-eats/",
+  "display": "browser",
+  "background_color": "#f8f1e4",
+  "theme_color": "#002868",
+  "icons": [
+    {
+      "src": "/arizona-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/arizona-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
