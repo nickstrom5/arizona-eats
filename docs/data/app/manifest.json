@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "version": "2026-10-26.1",
- "records_through": "2026-10-26",
- "published": "2026-10-26T14:19:50Z",
+ "version": "2026-11-03.1",
+ "records_through": "2026-11-03",
+ "published": "2026-11-03T18:09:07Z",
  "min_app_build": 1,
  "files": {
   "detail-eastern-arizona": {
@@ -36,16 +36,27 @@
    "rows": 733
   },
   "places": {
-   "path": "places-a7c55efca38f.json",
-   "sha256": "a7c55efca38fcfa84e3bb06d751ec2c36b53400b0fee60c824249dc457519bd1",
-   "bytes": 2920643,
+   "path": "places-927c678f1359.json",
+   "sha256": "927c678f13590aa4af98e732f502f0908dc3cd2f7da7744ae785dcf70a7f87a7",
+   "bytes": 2921417,
    "rows": 17869
   }
  },
  "counts": {
   "places": 17869,
   "files": 6,
-  "bytes": 4816883,
-  "restaurants": 17123
+  "bytes": 4817657,
+  "restaurants": 16994
+ },
+ "previous": {
+  "version": "2026-10-26.1",
+  "files": {
+   "detail-eastern-arizona": "detail-eastern-arizona-b3d399b73e04.json",
+   "detail-northern-arizona": "detail-northern-arizona-276ab599470a.json",
+   "detail-phoenix-central-arizona": "detail-phoenix-central-arizona-572a7aef7218.json",
+   "detail-tucson-southern-arizona": "detail-tucson-southern-arizona-15c5a7121807.json",
+   "detail-western-arizona": "detail-western-arizona-ee5c1b9cbfd6.json",
+   "places": "places-a7c55efca38f.json"
+  }
  }
 }
