@@ -1,0 +1,48 @@
+{
+ "schema": 2,
+ "version": "2026-11-03.1",
+ "records_through": "2026-11-03",
+ "min_app_build": 1,
+ "files": {
+  "detail-eastern-arizona": {
+   "path": "detail-eastern-arizona-b3d399b73e04.json",
+   "sha256": "b3d399b73e0407baf1a5a8c96401a0a2064ef4fb23389ba7dcaf9ebc0897f4c1",
+   "bytes": 11067
+  },
+  "detail-northern-arizona": {
+   "path": "detail-northern-arizona-276ab599470a.json",
+   "sha256": "276ab599470a022f6d80e45d59e309639991ee4864d03b345565b6398e2e906f",
+   "bytes": 82222
+  },
+  "detail-phoenix-central-arizona": {
+   "path": "detail-phoenix-central-arizona-5c139cc428c6.json",
+   "sha256": "5c139cc428c61cee45372f58d2eb81ba82b480d1f431163df1b6471d989f15db",
+   "bytes": 1469835
+  },
+  "detail-tucson-southern-arizona": {
+   "path": "detail-tucson-southern-arizona-53fd90dafe05.json",
+   "sha256": "53fd90dafe05e8ec500442b42c263150ffd60e1af2fe5d57fa0d1f033b11116f",
+   "bytes": 354866
+  },
+  "detail-western-arizona": {
+   "path": "detail-western-arizona-98c073ef1f38.json",
+   "sha256": "98c073ef1f386b3b21fcfe51545d2772fd494db00e7686948ebe5858db64d2dd",
+   "bytes": 152710
+  },
+  "places": {
+   "path": "places-d944e9914f1d.json",
+   "sha256": "d944e9914f1d39b4f2791bff44bd7e8ac5e7f89f1d1b9be8fac6e921cead410c",
+   "bytes": 3037019
+  },
+  "state": {
+   "path": "state-5a49f41c873e.json",
+   "sha256": "5a49f41c873e246548b90365dcf9429887a17ad8a92a2c311ba2f46f55feb49d",
+   "bytes": 9597
+  }
+ },
+ "counts": {
+  "places": 17869,
+  "restaurants": 16994,
+  "bytes": 5117316
+ }
+}
